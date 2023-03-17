@@ -9,3 +9,6 @@ Olá! Bem vindo ao meu livro de receitas:wave:
 - Arroz:rice:
 - Pavê de Chocolate:chocolate_bar:
 - Pudim:custard:
+- Sorvete🍨
+- Bolo de Chocolate🎂
+- Frango Assado🐓
