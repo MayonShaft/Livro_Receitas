@@ -12,3 +12,6 @@ Olá! Bem vindo ao meu livro de receitas:wave:
 - Sorvete🍨
 - Bolo de Chocolate🎂
 - Frango Assado🐓
+- Lasanha de carne:shallow_pan_of_food:
+- Salada de Fruta:green_salad:
+- Batata - Frita:fries:
